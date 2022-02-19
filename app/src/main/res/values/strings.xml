@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TapOff</string>
+    <string name="exit">Exit</string>
+    <string name="start">Start</string>
+    <string name="back">Back</string>
+    <string name="highscore">High Score</string>
+    <string name="retry">Retry</string>
+    <string name="go">GO!</string>
+    <string name="seconds_remaining">Seconds Remaining: </string>
+    <string name="instructions">Instructions</string>
+    <string name="highscorecaption">Current High Score:</string>
+    <string name="instructiontxt"><b>How To Play:</b> Have you ever wondered how fast you can tap your screen? Well this game is for you! \n
+        \n You have a total of 30 seconds to tap anywhere on your screen to increase your count. Now go claim that new high score!</string>
+
+</resources>
